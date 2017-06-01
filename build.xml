@@ -1,0 +1,5 @@
+<project name="test" default="echo">
+	<target name="echo">
+		<echo>this is ant build file</echo>
+	</target>
+</project>
